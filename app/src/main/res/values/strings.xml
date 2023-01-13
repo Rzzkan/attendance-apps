@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Attendance App</string>
+    <string name="sign_in_your_account">Sign In Your Account</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="history">History</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="current_location">Current Location</string>
+    <string name="default_text">-</string>
+    <string name="your_photo">Your Photo</string>
+    <string name="check_in">Check-In</string>
+    <string name="check_out">Check-out</string>
+    <string name="profile">Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="lihat_gaji">Lihat Gaji</string>
+    <string name="logout">Logout</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="attendance">Attendance</string>
+    <string name="please_field_your_email">Please field your email</string>
+    <string name="please_use_valid_email">Please use valid email</string>
+    <string name="please_field_your_password">Please field your password</string>
+    <string name="failed">Failed</string>
+    <string name="success">Success</string>
+    <string name="no_telp">No Telepon</string>
+</resources>
